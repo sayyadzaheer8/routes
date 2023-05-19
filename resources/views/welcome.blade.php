@@ -57,21 +57,8 @@
 </body>
 </html
 <div class="container">
-<h1> Here you can start writing all your blogs...</h1>
-
-    <h2 class="title" name="title"> <a href="/first">View First Blog...</a></h2>
-    <h3 class="Author" name="author"> Author:<a href="" >  sharik shaikh </a></h3>
-
-    <hr>
-
-    <h2 class="title" name="title"> <a href="/second">View Second Blog...</a></h2>
-    <h3 class="Author" name="author">Author: <a href="" >  saleem shaikh </a></h3>
-
-
-    <hr>
-    <h2 class="title" name="title"> <a href="/third">View third Blog...</a></h2>
-    <h3 class="Author" name="author">Author: <a href="" >  Navid shaikh </a></h3>
-
+<h1>This is site index page. Which introduces stuff</h1>
+<h2>To view list of blogs goto <a href="/post">Posts Index Page</a></h2>
 
 </div>
 </body>
